@@ -1,1 +1,1 @@
-loadstring(game:httpget("https://github.com/alma-maker/psx/blob/main/PetSimulatorTradeScript"))()
+loadstring(game:httpget("https://raw.githubusercontent.com/alma-maker/psx/main/PetSimulatorTradeScript"))()
